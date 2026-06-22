@@ -25,3 +25,16 @@ Perform Exploratory Data Analysis on the e-commerce dataset to identify trends, 
 ## Status
 Completed
 
+## Dashboard Screenshots
+
+### Revenue Analysis
+![](Screenshot_20260622-101138.png)
+
+### Payment Method Analysis
+![](Screenshot_20260622-101147.png)
+
+### Order Status Analysis
+![](Screenshot_20260622-101154.png)
+
+### Referral Source Analysis
+![](Screenshot_20260622-101203.png)
