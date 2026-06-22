@@ -9,14 +9,14 @@
 - Duplicate Validation
 - Data Standardization
 
-📄 Report: Project-1-Data-Cleaning/Project 1 .pdf
+📄 [Project 1 Report](Project-1-Data-Cleaning/Project%201%20.pdf)
 
 ### Project 2 - Exploratory Data Analysis (EDA)
 - Descriptive Statistics
 - SQL Insights
 - Power BI Visualizations
 
-📄 Report: Project-2-EDA/Project 2 .pdf
+📄 Report: Project-2-EDA/Project 2 .pdf📄 [Project 2 Report](Project-2-EDA/Project%202%20.pdf)
 
 ### Project 3 - SQL Analysis
 - WHERE, ORDER BY, GROUP BY
@@ -33,8 +33,7 @@
 - Product Performance
 - Referral Source Analysis
 
-📄 Report: Project 4/Project 4 .pdf
-
+📄 Report: Project 4/Project 4 .pdf📄 [Project 4 Report](Project 4/Project%204%20.pdf)
 ## Tools Used
 - Microsoft Excel
 - SQL Server (SSMS)
