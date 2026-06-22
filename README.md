@@ -25,6 +25,7 @@
 - Coupon Code Analysis
 
 📄 Report: Project-3-SQL-Analysis/Project 3 .pdf
+📄 [Project 3 Report](Project-3-SQL-Analysis/Project%203%20.pdf)
 
 ### Project 4 - Power BI Dashboard
 - Sales Performance Dashboard
