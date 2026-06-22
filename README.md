@@ -1,4 +1,4 @@
-# Decode-internship-
+# DecodeLabs-internship-
 # DecodeLabs Data Analytics Internship
 
 ## Completed Projects
