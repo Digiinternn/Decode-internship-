@@ -54,3 +54,6 @@ Power BI enables data analysts to transform raw data into meaningful visual stor
 
 ## Status
 Completed
+## Dashboard Screenshot
+
+![](Screenshot_20260622-104628.png)
