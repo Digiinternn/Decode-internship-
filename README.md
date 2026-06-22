@@ -31,3 +31,14 @@
 - SQL Server (SSMS)
 - Power BI
 - GitHub
+### Project 1 - Data Cleaning & Preparation
+📄 [View Report](Project-1-Data-Cleaning/Project%201.pdf)
+
+### Project 2 - Exploratory Data Analysis (EDA)
+📄 [View Report](Project-2-EDA/Project%202.pdf)
+
+### Project 3 - SQL Analysis
+📄 [View Report](Project-3-SQL-Analysis/Project%203.pdf)
+
+### Project 4 - Power BI Dashboard
+📄 [View Report](Project%204/Project%204.pdf)
