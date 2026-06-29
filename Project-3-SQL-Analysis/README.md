@@ -1,4 +1,4 @@
-# Project 3 - SQL Analysis on E-commerce Sales Data
+## Project 3 - SQL Analysis on E-commerce Sales Data
 
 ## Objective
 Analyze a 2,400-row E-commerce sales dataset using SQL Server Management Studio (SSMS 22) to extract meaningful business insights.
